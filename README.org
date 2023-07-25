@@ -1,0 +1,10 @@
+* cl-dropbox
+
+Common Lisp Client for Dropbox API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jsmpereira/cl-dropbox.git   |
+| commit  | 8c131b6  |
+| systems | cl-dropbox |
+|---------+-------------------------------------------|
+
